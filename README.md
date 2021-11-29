@@ -1,5 +1,6 @@
 # StatLearningBigData_Project1
 
+First project in Brown Universty's Statistical Learning and Big Data course Spring 2021 taught by Dr. Alice Paul
 
 # Goal
 
